@@ -1,7 +1,7 @@
 - 👋 Hi, Im Muhammad Umair
 - I live in Quetta Baluchistan, Pakistan.
 - 👀 I’m interested in WEB Development 
-- 🌱 I’m currently learning WEB Development 
+- 🌱 I’m currently learning Android Development 
 - 💞️ I’m looking to collaborate on WEB Apps
 - 📫 How to reach me on ⬇
 - via email umairamjad291@gmail.com
